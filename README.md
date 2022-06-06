@@ -1,4 +1,4 @@
-# _wg37
+# _wg39
 <a href="https://writingagame.com/">WritingAGame.com</a> Chapter 39
 <br />
 <b>GameDev, 3D, cross-platform, C++, Visual Studio, Android, Windows, OpenGL ES 3.2</b>
